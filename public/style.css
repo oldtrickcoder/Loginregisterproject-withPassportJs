@@ -1,0 +1,50 @@
+*{
+    font-size: 15px;
+}
+
+
+
+.ui .card{
+    position: absolute;
+    top: 25vh;
+    left: 38%;
+}
+
+
+body{
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+}
+
+form{
+    display: none;
+}
+button{
+    position: relative;
+    top: 10px;
+    left: 75px;
+}
+
+
+.judul{
+    position: absolute;
+    font-size: 75px;
+    left: 35vw;
+    top: 50px;
+    color: beige;
+    font-family: cursive;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: white;
+}
+
+.belumpunyaakun{
+    position: absolute;
+    top: 75vh;
+    left: 50vw;
+    font-size: 35px;
+}
